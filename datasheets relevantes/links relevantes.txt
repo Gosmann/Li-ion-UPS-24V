@@ -1,0 +1,11 @@
+Links relevantes:
+
+Como o circuito funciona:
+https://electronics.stackexchange.com/questions/446526/how-does-dw01a-prevent-overcharing-and-discharging
+
+Suporte bateria:
+https://pt.aliexpress.com/item/4000868337607.html?spm=a2g0o.productlist.0.0.55bb5c2fPwsCei&ad_pvid=202009181236166261537244506440002234318_5&s=p
+
+NCR18650B:
+https://pt.aliexpress.com/item/1005001383702187.html?spm=a2g0o.productlist.0.0.622c6fd9AufHdL&algo_pvid=09c1a2fa-de64-483b-9c4e-ff04629e20c9&algo_expid=09c1a2fa-de64-483b-9c4e-ff04629e20c9-6&btsid=0ab50f6216004577149593409e2517&ws_ab_test=searchweb0_0,searchweb201602_,searchweb201603_
+
