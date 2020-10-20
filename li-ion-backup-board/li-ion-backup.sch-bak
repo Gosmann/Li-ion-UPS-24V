@@ -4,14 +4,14 @@ EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
 Sheet 1 1
-Title ""
-Date ""
-Rev ""
+Title "Li-ion UPS 24V"
+Date "2020-10-14"
+Rev "A"
 Comp ""
 Comment1 ""
 Comment2 ""
 Comment3 ""
-Comment4 ""
+Comment4 "Author: Gabriel Gosmann"
 $EndDescr
 $Comp
 L Connector:Screw_Terminal_01x02 J?
