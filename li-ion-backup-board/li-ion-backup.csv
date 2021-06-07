@@ -38,7 +38,7 @@ Comment,Designator,Footprint,LCSC, LCSC, Voltage
 "24V","TP6","e-Power:TestPoint_Pad_D1.0mm",""
 "SIG","TP7","e-Power:TestPoint_Pad_D1.0mm",""
 "5V","TP8","e-Power:TestPoint_Pad_D1.0mm",""
-"MT3608","U1","Package_TO_SOT_SMD:SOT-23-6","","C84817",""
+"MT3608","U1","Package_TO_SOT_SMD:SOT-23-6","","C78162",""
 "LM2596S-ADJ","U2","Package_TO_SOT_SMD:TO-263-5_TabPin3","","C99046",""
 "DW01A","U3","Package_TO_SOT_SMD:SOT-23-6","","C61503",""
 "TP4056","U4","e-Power:ESOP-8-1EP_3.9x4.9mm_P1.27mm_EP2.41x3.81mm_ThermalVias","","C16581",""

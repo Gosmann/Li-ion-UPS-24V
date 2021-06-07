@@ -2,7 +2,7 @@
 <export version="D">
   <design>
     <source>C:\Users\gabri\Documents\git-Li-ion-UPS-24V\Li-ion-UPS-24V\li-ion-backup-board\li-ion-backup.sch</source>
-    <date>11/4/2020 1:09:02 PM</date>
+    <date>11/10/2020 3:15:57 PM</date>
     <tool>Eeschema (5.1.5)-3</tool>
     <sheet number="1" name="/" tstamps="/">
       <title_block>
@@ -547,7 +547,7 @@
       <footprint>Package_TO_SOT_SMD:SOT-23-6</footprint>
       <datasheet>https://datasheet.lcsc.com/szlcsc/XI-AN-Aerosemi-Tech-MT3608_C84817.pdf</datasheet>
       <fields>
-        <field name="LCSC">C84817</field>
+        <field name="LCSC">C78162</field>
       </fields>
       <libsource lib="e-Power" part="MT3608" description="One Cell Lithium-ion/Polymer Battery IC"/>
       <sheetpath names="/" tstamps="/"/>
